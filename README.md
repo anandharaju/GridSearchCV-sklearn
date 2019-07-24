@@ -11,3 +11,5 @@ Tunable Hyper-parameters:
 	7) Activation functions
 	8) Dropout regularization
   9) Number of neurons in the hidden layer.
+
+Source: https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
